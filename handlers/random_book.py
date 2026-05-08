@@ -7,6 +7,7 @@ from utils.send import send_with_optional_sticker
 
 random_router = Router()
 
+
 @random_router.message(lambda m: m.text == "🎲 Случайная книга")
 async def random_book(message: Message):
     book = get_random_book_any()
