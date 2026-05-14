@@ -4,7 +4,6 @@ import random
 STICKERS = [
     # сюда вставь реальные file_id стикеров котов
     "CAACAgIAAxkBAAIBGmnxbeOmJYKXE_7RrH3D0Xl4uRb2AAJPowADnoFLqX0vM9qsskI7BA",
-    "CAACAgIAAxkBAAIBIGnxcJ1R_mERMAKlwIjI0ZI8v1WNAAI8sgACPhGISzFtGi1yUZzZOwQ",
     "CAACAgIAAxkBAAERLcRp_XZOBcarVEkV4kcO5llrHLD0sAACApEAAgfi8EsLCNFcpOU-cDsE",
     "CAACAgIAAxkBAAERLcZp_Xo8aM2S82Gf9DrVbU-PXxrV8QACGJEAAgfi8EtLbz9obFmxDDsE",
     "CAACAgIAAxkBAAERLcpp_Xrs_EkMvjc5Ep9jpbuGwdq9RQACI5EAAgfi8EukhXiF9m0GvjsE",
