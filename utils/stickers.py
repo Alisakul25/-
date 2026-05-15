@@ -16,5 +16,5 @@ def random_sticker():
         return None
     return random.choice(STICKERS)
 
-def should_send_sticker(probability: float = 0.7) -> bool:
+def should_send_sticker(probability: float = 0.8) -> bool:
     return random.random() < probability
